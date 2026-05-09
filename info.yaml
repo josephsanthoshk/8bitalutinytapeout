@@ -9,7 +9,7 @@ project:
 
   tiles: "1x1"
 
-  top_module:  "tt_um_alu"
+  top_module:  "tt_um_alu8bit"
 
   source_files:
     - "tt_um_alu8bit.v"
