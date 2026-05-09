@@ -1,4 +1,4 @@
-module tt_um_alu (
+module tt_um_alu8bit (
     input  wire [7:0] ui_in,
     output wire [7:0] uo_out,
     input  wire [7:0] uio_in,
